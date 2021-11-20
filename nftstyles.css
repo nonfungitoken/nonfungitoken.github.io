@@ -566,7 +566,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #buttons01 .button:hover {
-    background-color: #FFE7D9 !important;*
+    background-color: #FFE7D9 !important;
 }
 
 .image {
@@ -724,6 +724,10 @@ h1 .li, h2 .li, h3 .li, p .li {
         padding-top: 0 !important;
     }
     */
+
+    .firstcolumn {
+        margin-left: -2rem;
+    }
 
     #container02.columns > .wrapper > .inner > div.after-spacer {
         padding-bottom: 0 !important;
